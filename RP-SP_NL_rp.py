@@ -1,6 +1,6 @@
 # Translated to .py by Yundi Zhang
 # Jan 05 2017
-
+# Trained in Class
 from biogeme import *
 from headers import *
 from loglikelihood import *
